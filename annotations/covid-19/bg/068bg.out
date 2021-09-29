@@ -1,0 +1,14 @@
+068
+AstraZeneca	astrazeneca	ORG	ORG_89
+Biontech/Pfizer	biontech/pfizer	ORG	ORG_452
+CureVac	curevac	ORG	ORG_470
+EUA	eua	LOC	LOC_69
+Moderna	moderna	ORG	ORG_87
+SARS-CoV-2	sars-cov-2	ORG	ORG_573
+Германия	германия	LOC	LOC_27
+Италия	италия	LOC	LOC_50
+Ковид-19	ковид-19	EVT	EVT_233
+Световната здравна организация	световен здравен организация	ORG	ORG_133
+Ухан	ухан	LOC	LOC_202
+болестта	болест	EVT	EVT_572
+коронавируса	коронавирус	EVT	EVT_3

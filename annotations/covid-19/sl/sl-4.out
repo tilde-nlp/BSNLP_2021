@@ -1,0 +1,23 @@
+sl-4
+19	19	PRO	PRO_405
+Američane	Američan	PER	PER_64
+Američani	Američan	PER	PER_64
+Bela hiša	bel hiša	ORG	ORG_1705
+Donald Trump	Donald Trump	PER	PER_70
+FDA	FDA	ORG	ORG_66
+Gilead	Gilead	ORG	ORG_1907
+Henry Ji	Henry on	PER	PER_1905
+Manhattan	Manhattan	LOC	LOC_550
+Moderna	moderna	ORG	ORG_87
+Moncef Slaoui	Moncef Slaoui	PER	PER_1901
+Mount Sinai Health System	Mount Sinai health system	ORG	ORG_1906
+New York	New York	LOC	LOC_103
+Remdesevir	Remdesevir	PRO	PRO_1026
+STI-1499	STI - 1499	PRO	PRO_1904
+San Diega	San Diega	LOC	LOC_1900
+San Diegu	San Diego	LOC	LOC_1900
+Sorrento Therapeutics	Sorrento Therapeutics	ORG	ORG_1903
+Warp Speed	warp speed	EVT	EVT_1902
+ZDA	ZDA	LOC	LOC_69
+covidu	covid	EVT	EVT_1638
+druge svetovne vojne	drug svetoven vojna	EVT	EVT_407

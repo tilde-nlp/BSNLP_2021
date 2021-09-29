@@ -1,0 +1,50 @@
+ru-45
+BioNTech	BioNTech	ORG	ORG_68
+BioNTech/Pfizer	BioNTech / Pfizer	ORG	ORG_3087
+COVID-19	COVID - 19	EVT	EVT_233
+Cookie	Cookie	PRO	PRO_2681
+Jens Spahn	Jens Spahn	PER	PER_682
+Moderna	Moderna	ORG	ORG_87
+Pfizer	Pfizer	ORG	ORG_67
+SARS-CoV-2	SARS-CoV - 2	ORG	ORG_573
+Ursula von der Leyen	Ursula von der Leyen	PER	PER_45
+Австрия	Австрия	LOC	LOC_3234
+Ангела Меркель	Ангела Меркель	PER	PER_117
+Беларуси	Беларуси	LOC	LOC_1
+Беларусь	Беларусь	LOC	LOC_1
+Брюсселе	Брюссель	LOC	LOC_1373
+Германии	Германия	LOC	LOC_27
+Германию	Германия	LOC	LOC_27
+Германия	Германия	LOC	LOC_27
+Дании	Дания	LOC	LOC_1651
+Дания	Дания	LOC	LOC_1651
+ЕК	ек	ORG	ORG_1370
+ЕС	ес	ORG	ORG_5
+Еврокомиссии	Еврокомиссия	ORG	ORG_1444
+Еврокомиссия	Еврокомиссия	ORG	ORG_1444
+Европа	Европа	LOC	LOC_49
+Европу	Европа	LOC	LOC_49
+Европы	Европа	LOC	LOC_49
+Евросоюз	Евросоюз	ORG	ORG_5
+Евросоюза	Евросоюз	ORG	ORG_5
+Италии	Италия	LOC	LOC_50
+Италия	Италия	LOC	LOC_50
+Йенса Шпана	Йенс Шпан	PER	PER_682
+Коронавирус	коронавирус	ORG	ORG_3294
+Лукашенко	Лукашенко	PER	PER_1973
+Марина Барановская	Марина Барановская	PER	PER_347
+Минздрава	Минздрав	ORG	ORG_35
+Москве	Москва	LOC	LOC_316
+Положении о защите личных данных	положение о защита личный данные	PRO	PRO_2800
+РФ	РФ	LOC	LOC_95
+Россия	Россия	LOC	LOC_95
+США	США	LOC	LOC_69
+Украина	Украина	LOC	LOC_318
+Украине	Украина	LOC	LOC_318
+Урсула фон дер Ляйен	Урсул фон дер Ляйен	PER	PER_45
+ФРГ	ФРГ	LOC	LOC_27
+Франция	Франция	LOC	LOC_20
+Швеции	Швеция	LOC	LOC_12
+Швеция	Швеция	LOC	LOC_12
+коронавирусом	коронавирус	EVT	EVT_3
+фон дер Ляйен	фон дер Ляйен	PER	PER_3295

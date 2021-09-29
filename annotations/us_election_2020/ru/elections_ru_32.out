@@ -1,0 +1,47 @@
+ru-32
+CNN Forecast	CNN Forecast	ORG	ORG_383
+Fivethirtyeight	Fivethirtyeight	ORG	ORG_3366
+Fivethirtyeight.com	Fivethirtabight.t.m	PRO	PRO_5096
+Fox News	Fox News	PRO	PRO_3308
+MSNBC	MSNBC	PRO	PRO_3533
+NYT	nyt	PRO	PRO_277
+Politico	Politico	PRO	PRO_543
+RealClearPolitics	RealClearPolitics	ORG	ORG_3365
+Vox	Vox	ORG	ORG_2574
+Байден	Байден	PER	PER_3577
+Билл Клинтон	Билл Клинтон	PER	PER_2175
+Браун	Браун	PER	PER_685
+Букера	букер	PER	PER_4620
+Гарсетти	гарсетт	PER	PER_5551
+Гиллибренд	гиллибренд	PER	PER_5550
+Клинтон	Клинтон	PER	PER_3473
+Клинтона	Клинтон	PER	PER_3473
+Конгресс	Конгресс	ORG	ORG_3350
+Мичиган-Миннесоту-Висконсин-Огайо	мичиган-Миннесот -Висконсин - Огайо	LOC	LOC_5549
+Обаме	Обам	ORG	ORG_4098
+Обамой	Обама	PER	PER_1706
+О’Рурка	озрурк	PER	PER_3481
+Палате представителей	палата представитель	ORG	ORG_3333
+Пенсильванию	пенсильвание	LOC	LOC_101
+Рузвельт	Рузвельт	PER	PER_5308
+Рузвельта	Рузвельт	PER	PER_5308
+Сook Political Report	Сook Political Report	ORG	ORG_5104
+США	США	LOC	LOC_69
+Сенат	Сенат	ORG	ORG_1012
+Сенате	Сенат	ORG	ORG_1012
+Твиттере	Твиттер	PRO	PRO_71
+Трамп	Трамп	PER	PER_977
+Трампа	Трамп	PER	PER_70
+Трампу	трампа	PER	PER_977
+Уоррен	Уоррен	PER	PER_281
+Флориду	Флорида	LOC	LOC_894
+Харри Энтен	Харри Энтен	PER	PER_4746
+Харрис	Харрис	PER	PER_363
+Хиллари	Хиллари	PER	PER_4879
+американский Конгресс	американский Конгресс	ORG	ORG_4061
+демократическая партия	демократический партия	ORG	ORG_584
+демократов	демократ	ORG	ORG_3320
+палаты Конгресс	палата Конгресс	ORG	ORG_4657
+президентская	президентский	ORG	ORG_5103
+президентских выборов 2020	президентский выборы 2020	EVT	EVT_4818
+республиканцев	республиканец	PER	PER_1985

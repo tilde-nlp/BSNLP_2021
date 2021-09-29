@@ -1,0 +1,57 @@
+ru-3
+Anthony Fauci	Anthony Fauci	PER	PER_169
+BNT162b2	BNT162b2	PRO	PRO_1683
+BioNTech	BioNTech	ORG	ORG_68
+COVID-19	COVID - 19	EVT	EVT_233
+Comirnaty	Comirnaty	ORG	ORG_1051
+Covuity	Covuity	ORG	ORG_3099
+DHL	DHL	ORG	ORG_1918
+DocuSign	DocuSign	ORG	ORG_3104
+FDA	FDA	ORG	ORG_66
+Kovimerna	Kovimerna	ORG	ORG_3100
+Moderna	Moderna	ORG	ORG_87
+Mosmedpreparaty.ru	Mosmedpreparaty.ru	PRO	PRO_3008
+NCT04368728	NCT04368728	PRO	PRO_3101
+NIAID	NIAID	ORG	ORG_2422
+Nasdaq	Nasdaq	ORG	ORG_1594
+Nature Medicine	Nature Medicine	PRO	PRO_140
+Netflix	Netflix	ORG	ORG_258
+Peloton	Peloton	ORG	ORG_3103
+Pew Research Center	Pew Research Center	ORG	ORG_1708
+Pfizer	Pfizer	ORG	ORG_67
+SARS-CoV-2	SARS-CoV - 2	PRO	PRO_88
+Zoom	Zoom	ORG	ORG_1355
+Аргентине	Аргентина	LOC	LOC_2035
+Аргентины	Аргентина	LOC	LOC_2035
+Байонтек	байонтек	ORG	ORG_3094
+Бахрейн	Бахрейн	LOC	LOC_80
+Бразилии	Бразилия	LOC	LOC_713
+Великобританией	Великобритания	LOC	LOC_6
+Великобритания	Великобритания	LOC	LOC_6
+Германии	Германия	LOC	LOC_27
+Европейский союз	европейский союз	ORG	ORG_5
+Исследовательским центром Пью	исследовательский центр Пью	ORG	ORG_1708
+Канада	Канада	LOC	LOC_78
+Китае	Китай	LOC	LOC_56
+Ковимерна	ковимерный	ORG	ORG_3100
+Ковьюити	ковьюить	ORG	ORG_3098
+Комирнати	комирнать	ORG	ORG_1051
+Кувейт	Кувейт	LOC	LOC_389
+Мексика	Мексика	LOC	LOC_79
+Модерна	модерна	ORG	ORG_87
+Мосмедпрепараты	мосмедпрепарат	ORG	ORG_3097
+Национального института изучения аллергических и инфекционных заболеваний США	национальный институт изучение аллергический и инфекционный заболевание США	ORG	ORG_170
+Пфайзер	пфайзер	ORG	ORG_352
+России	Россия	LOC	LOC_95
+США	США	LOC	LOC_69
+Саудовская Аравия	саудовский Аравия	LOC	LOC_81
+Сингапур	Сингапур	LOC	LOC_18
+Соединенных Штатов	соединить Штат	LOC	LOC_69
+Старый Свет	старый свет	LOC	LOC_3105
+Турции	Турция	LOC	LOC_138
+Управления по санитарному надзору за качеством пищевых продуктов и медикаментов США	Управление по санитарный надзор за качество пищевой продукт и медикамент США	ORG	ORG_65
+Чили	Чили	LOC	LOC_3102
+Энтони Фаучи	Энтони Фаучи	PER	PER_169
+ЮАР	ЮАР	LOC	LOC_69
+Южной Африки	Южный Африка	LOC	LOC_157
+Япония	Япония	LOC	LOC_13

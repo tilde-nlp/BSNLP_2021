@@ -1,0 +1,72 @@
+ru-49
+5G	5G	ORG	ORG_2831
+AstraZeneca	Astraleneca	ORG	ORG_89
+BioNTech/Pfizer	BioNTech / Pfizer	ORG	ORG_3087
+COVID-19	COVID - 19	EVT	EVT_233
+Cookie	Cookie	PRO	PRO_2681
+DW	DW	PRO	PRO_334
+Der Spiegel	Der Spiegel	ORG	ORG_3227
+FECYT	FECYT	ORG	ORG_3239
+GlaxoSmithKline	GlaxoSmithKline	ORG	ORG_599
+Kantar Group	Kantar Group	ORG	ORG_1148
+Markus Söder	Markus Söder	PER	PER_2529
+No Vax	No Vax	ORG	ORG_3232
+Pandemrix	Pandemrix	PRO	PRO_3235
+SARS-CoV-2	SARS-CoV - 2	PRO	PRO_88
+The Guardian	The Guardian	PRO	PRO_2594
+V	v	PRO	PRO_2830
+V-Day	V-Day	EVT	EVT_3228
+Victory in Europe Day	Victory in Europe Day	EVT	EVT_3230
+Австрии	Австрия	LOC	LOC_19
+Андерс Тегнелл	Андерс Тегнелл	PER	PER_633
+Баварии	Бавария	LOC	LOC_2528
+ВОЗ	ВОЗ	ORG	ORG_86
+Великобритании	Великобритания	LOC	LOC_6
+Вене	Вена	LOC	LOC_1560
+Венского университета	венский университет	ORG	ORG_1204
+Верхняя Австрия	верхний Австрия	LOC	LOC_3234
+Всемирной организации здравоохранения	всемирный организация здравоохранение	ORG	ORG_133
+Германии	Германия	LOC	LOC_27
+Днем победы над нацистской Германией	день победа над нацистский Германия	EVT	EVT_3229
+ЕС	ес	ORG	ORG_5
+Европа	Европа	LOC	LOC_49
+Европе	Европа	LOC	LOC_49
+Европы	Европа	LOC	LOC_49
+Евросоюзе	Евросоюз	ORG	ORG_5
+Института Novus	институт Novus	ORG	ORG_3237
+Испании	Испания	LOC	LOC_10
+Испания	Испания	LOC	LOC_10
+Испанского фонда науки и технологий	испанский фонд наука и технология	ORG	ORG_3238
+Италии	Италия	LOC	LOC_50
+Италия	Италия	LOC	LOC_50
+Китай	Китай	LOC	LOC_56
+Лайфхак	лайфхак	LOC	LOC_2832
+Мальмё	Мальма	LOC	LOC_3236
+Маркус Зёдер	Маркус Зёдер	PER	PER_2529
+Москве	Москва	LOC	LOC_316
+Национальном совете по здравоохранению и социальному обеспечению	национальный совет по здравоохранение и социальный обеспечение	ORG	ORG_1626
+Оксфордского университета	оксфордский университет	ORG	ORG_1050
+Петербурге	Петербург	LOC	LOC_2297
+Положении о защите личных данных	положение о защита личный данные	PRO	PRO_2800
+Путин	Путин	PER	PER_315
+Путина	Путин	PER	PER_315
+РФ	РФ	LOC	LOC_95
+Рождества	Рождество	EVT	EVT_418
+Сальвадор Илья	Сальвадор Илья	PER	PER_793
+Себастиан Курц	себастиан Курц	PER	PER_464
+Сергей Елкин	Сергей Елкин	PER	PER_2828
+Сергей Елкина	Сергей Елкин	PER	PER_2828
+Сергея Елкина	Сергей Елкин	PER	PER_2828
+Спутник V	спутник v	PRO	PRO_94
+Стефано Боэри	Стефано Боэри	PER	PER_3231
+Стокгольме	Стокгольм	LOC	LOC_634
+Франции	Франция	LOC	LOC_20
+Швеции	Швеция	LOC	LOC_12
+Штирия	Штирия	LOC	LOC_3233
+Юмор	юмор	PER	PER_2829
+британцев	британец	PER	PER_450
+европейцы	европеец	PER	PER_411
+испанцы	испанец	PER	PER_552
+итальянцев	итальянец	PER	PER_552
+коронавируса	коронавирус	EVT	EVT_3
+французов	француз	PER	PER_279

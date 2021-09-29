@@ -1,0 +1,27 @@
+086
+:	:	ORG	ORG_85
+Astra Zeneka	astra Zeneka	ORG	ORG_89
+BioNTech	biontech	ORG	ORG_68
+FDA	fda	ORG	ORG_66
+Janssen-Cilag	janssen-cilag	ORG	ORG_90
+Moderna	moderna	ORG	ORG_87
+Pfizer	pfizer	ORG	ORG_67
+Pfizer/BioNtech	pfizer/biontech	ORG	ORG_67
+SARS-Cov-2	sars-cov-2	PRO	PRO_88
+Sanofi-GSK	sanofi-gsk	ORG	ORG_93
+Vector	vector	PRO	PRO_92
+БАН	бан	ORG	ORG_84
+България	българия	LOC	LOC_1
+Великобритания	великобритания	LOC	LOC_6
+ЕМА	ема	ORG	ORG_39
+ЕС	ес	ORG	ORG_5
+Европейската медицинска агенция	европейски медицински агенция	ORG	ORG_82
+Европейския съюз	европейски съюз	ORG	ORG_5
+Китай	китай	LOC	LOC_56
+Министерство на здравеопазването	министерство на здравеопазване	ORG	ORG_35
+Русия	русия	LOC	LOC_95
+Руската федерация	руски федерация	LOC	LOC_95
+САЩ	сащ	LOC	LOC_69
+СЗО	сзо	ORG	ORG_86
+Спутник	спутник	PRO	PRO_91
+Спутник V	спутник пети	PRO	PRO_94

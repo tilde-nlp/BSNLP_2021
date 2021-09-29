@@ -1,0 +1,38 @@
+sl-222
+3M	3M	ORG	ORG_1653
+Američanom	Američan	PER	PER_64
+Ameriški center za nadzor nad boleznimi	ameriški center za nadzor nad bolezen	ORG	ORG_509
+Andrew Cuomo	Andrew Cuomo	PER	PER_1662
+Bill de Blasio	Bill de Blasio	PER	PER_1658
+Boston	Boston	LOC	LOC_1654
+CDC	CDC	ORG	ORG_275
+Charlie Baker	Charlie Baker	PER	PER_1656
+Chuckom Schumerjem	Chuck Schumer	PER	PER_1665
+Covid-19	Covid - 19	PRO	PRO_105
+Detroitu	Detroit	LOC	LOC_1669
+Donald Trump	Donald Trump	PER	PER_70
+Eric Garcetti	Eric Garcetti	PER	PER_249
+Facebooku	Facebook	PRO	PRO_98
+Fema	Fema	ORG	ORG_1661
+Floridi	Floridi	LOC	LOC_894
+Fort Lauderdalu	Fort Lauderdal	LOC	LOC_1668
+Iran	Iran	LOC	LOC_177
+Jason Hargrove	Jason Hargrov	PER	PER_1670
+Kitajskem	Kitajsko	LOC	LOC_56
+Los Angelesa	Los Angeles	LOC	LOC_248
+Louisiana	Louisian	LOC	LOC_1663
+Massachusettsa	Massachusettsa	LOC	LOC_508
+New England Patriots	New England Patriots	ORG	ORG_1655
+New York	New York	LOC	LOC_103
+New Yorka	New York	LOC	LOC_103
+New Yorku	New York	LOC	LOC_103
+Pentagon	Pentagon	ORG	ORG_1659
+Peter Navarro	Peter Navarro	PER	PER_1657
+Rotterdam	Rotterda	LOC	LOC_1667
+Svetovna zdravstvena organizacija	svetoven zdravstven organizacija	ORG	ORG_133
+Trump	Trump	PER	PER_977
+Trumpov	Trumpov	PER	PER_977
+WHO	who	ORG	ORG_86
+ZDA	ZDA	LOC	LOC_69
+Zaandam	zaandati	LOC	LOC_1666
+Zvezna agencija za posredovanje v nesrečah	zvezen agencija za posredovanje v nesreča	ORG	ORG_1660

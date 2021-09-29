@@ -1,0 +1,54 @@
+sl-174
+Angela Merkel	Angel Merkel	PER	PER_117
+Antonio Guterres	Antonio Guterres	PER	PER_269
+Argentina	Argentina	LOC	LOC_2035
+Avstralija	Avstralij	LOC	LOC_19
+Boris Johnson	Boris Johnson	PER	PER_52
+Brazilija	Brazilij	LOC	LOC_713
+Charles Michel	Charles Michel	PER	PER_1333
+Covax	Covax	ORG	ORG_1331
+Donald Trump	Donald Trump	PER	PER_70
+Donalda Trumpa	Donalda Trumpa	PER	PER_70
+EU	EU	ORG	ORG_5
+Evropska unija	evropski unija	ORG	ORG_5
+Evropske komisije	evropski komisija	ORG	ORG_1444
+Evropskega sveta	evropski svet	ORG	ORG_129
+Evropskem svetu	evropski svet	ORG	ORG_112
+Evropski komisiji	evropski komisija	ORG	ORG_1444
+Evropski parlament	evropski parlament	ORG	ORG_129
+Francija	Francija	LOC	LOC_20
+G20	G20	ORG	ORG_1326
+Indija	Indija	LOC	LOC_336
+Indonezija	Indonezija	LOC	LOC_336
+Italija	Italija	LOC	LOC_50
+Japonska	Japonska	LOC	LOC_13
+Južna Afrika	južen Afrika	LOC	LOC_745
+Južna Koreja	južen Korej	LOC	LOC_60
+Kanada	Kanada	LOC	LOC_78
+Kitajska	Kitajska	LOC	LOC_56
+Mehika	Mehik	LOC	LOC_3994
+Nemčija	Nemčija	LOC	LOC_27
+Putin	Putin	PER	PER_315
+Recep Tayyip Erdogan	Recep Tayyip Erdogan	PER	PER_139
+Reuters	Reuters	ORG	ORG_153
+Rijadu	Rijad	LOC	LOC_1328
+Rusija	Rusija	LOC	LOC_95
+Salman	Salman	PER	PER_1327
+Salmana	Salmana	PER	PER_1327
+Savdska Arabija	savdski Arabija	LOC	LOC_81
+Savdski Arabiji	savdski Arabija	LOC	LOC_81
+Sputnik	sputnik	PRO	PRO_929
+Svetovne zdravstvene organizacije	svetoven zdravstven organizacija	ORG	ORG_133
+Trumpa	Trumpa	PER	PER_977
+Turčija	Turčija	LOC	LOC_138
+Ursula von der Leyen	Ursula von der Leyen	PER	PER_45
+Velika Britanija	velik Britanija	LOC	LOC_6
+Vladimir Putin	Vladimir Putin	PER	PER_315
+WHO	who	ORG	ORG_86
+Xi	Xi	PER	PER_1332
+Xi Jinping	Xi Jinping	PER	PER_1329
+ZDA	ZDA	LOC	LOC_69
+ZN	ZN	ORG	ORG_1330
+covid-19	covid - 19	PRO	PRO_105
+covida-19	Covid - 19	EVT	EVT_233
+dpa	dpa	ORG	ORG_1286

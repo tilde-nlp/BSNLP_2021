@@ -1,0 +1,55 @@
+sl-205
+-	-	PER	PER_3286
+ABC	abc	PRO	PRO_3458
+Američanom	Američan	PER	PER_64
+Američanov	Američan	PER	PER_64
+Ameriškega inštituta za ekonomske raziskave	ameriški inštitut za ekonomski raziskava	ORG	ORG_3125
+Arizoni	Arizoni	LOC	LOC_1748
+Atlas	atlas	PRO	PRO_4441
+Beli hiši	bel hiša	LOC	LOC_72
+Biden	Biden	PER	PER_3577
+Bidna	biden	PER	PER_3577
+Bidnova	Bidnova	PER	PER_1246
+Bidnovega	Bidnov	PER	PER_1246
+Delaware	Delaware	LOC	LOC_3342
+Donald Trump	Donald Trump	PER	PER_70
+Donaldu Trumpu	Donald Trump	PER	PER_70
+Economist	economist	PRO	PRO_3686
+Fox News	fox News	PRO	PRO_3308
+Fox TV	fox TV	ORG	ORG_4438
+Hunterja	Hunter	PER	PER_1209
+Joe	Joe	PER	PER_3622
+Joe Biden	Joe Biden	PER	PER_76
+Joeja Bidna	Joeja Bidno	PER	PER_76
+Joeju Bidnu	Joej Bidno	PER	PER_2173
+Joseph	Joseph	PER	PER_2210
+Kayleigh McEnany	Kayleigh Mcenany	PER	PER_3461
+Miamiju	Miamij	LOC	LOC_3368
+Michigan	Michigan	LOC	LOC_99
+Michigana	Michigan	LOC	LOC_99
+Michiganu	Michigan	LOC	LOC_99
+Muskegonu	Muskegon	LOC	LOC_4439
+Nevadi	Nevadi	LOC	LOC_1153
+Pensilvaniji	Pensilvanija	LOC	LOC_2427
+Philadelphii	Philadelphia	LOC	LOC_3816
+Scott Atlas	Scott atlas	PER	PER_4440
+Severni Karolini	severen Karolina	LOC	LOC_168
+Trump	Trump	PER	PER_977
+Trumpa	Trumpa	PER	PER_977
+Trumpom	trump	PER	PER_977
+Trumpova	Trumpov	PER	PER_977
+Trumpove	Trumpov	PER	PER_977
+Trumpovega	Trumpov	PER	PER_977
+Trumpovi	Trumpov	PER	PER_977
+Trumpovih	Trumpov	PER	PER_977
+Trumpu	Trump	PER	PER_977
+Twitter	Twitter	PRO	PRO_71
+Ukrajini	Ukrajina	LOC	LOC_318
+ZDA	ZDA	LOC	LOC_69
+Združenih državah Amerike	združen država Amerika	LOC	LOC_69
+covida-19	Covid - 19	EVT	EVT_233
+demokrati	demokrat	PER	PER_2172
+republikanci	republikanec	PER	PER_1985
+tribuno Bidna	tribuna biden	LOC	LOC_4443
+tribuno Trumpa	tribuna Trumpa	LOC	LOC_3316
+twitterja	twitter	PRO	PRO_71

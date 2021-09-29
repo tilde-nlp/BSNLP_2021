@@ -1,0 +1,14 @@
+015
+-	-	LOC	LOC_285
+178.	178 .	LOC	LOC_638
+COVID-19	covid-19	EVT	EVT_233
+NOVA	nova	PRO	PRO_277
+Pfizer	pfizer	ORG	ORG_67
+Варна	варна	LOC	LOC_274
+Видин	видин	LOC	LOC_288
+Костадин Ангелов	костадин ангелов	PER	PER_114
+Летище София	летище софия	LOC	LOC_144
+Пловдив	пловдив	LOC	LOC_294
+Смолян	смолян	LOC	LOC_296
+София-град	софия-град	LOC	LOC_144
+коронавирус	коронавирус	EVT	EVT_3
